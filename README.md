@@ -12,9 +12,8 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="JWMarksberry | Twitter" width="22px" src="https://twitter.com/JWMarksberry/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JWMarksberry | LinkedIn" width="22px" src=" https://www.linkedin.com/in/joshua-marksberry-45825019b/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JWMarksberry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JWMarksberry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!--[<img align="left" alt="JWMarksberry | Instagram" width="22px" src="https://./npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 <br />

@@ -5,15 +5,16 @@
 ## I'm a Student, Developer, and Entrepreneur!
 
 - 🔭 I’m currently working on a Some Projects!
-- 🌱 I’m currently learning a lot of Math and Science
-- 👯 I’m looking to collaborate with others to build stuff with ai 
-- 🥅 2020 Goals: More Open Source projects
+- 🌱 I’m currently learning a lot of Math and Science.
+- 👯 I’m looking to collaborate with others to build unique and challeging projects.
+- 🥅 2020 Goals: More Open Source projects.
 - ⚡ Fun fact: I have been moving my entire childhood and I used to a content creator. 
 
 
 ### Connect with me:
 [<img align="left" alt="JWMarksberry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JWMarksberry | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 <!--[<img align="left" alt="JWMarksberry | Instagram" width="22px" src="https://./npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
 
 <br />
@@ -33,8 +34,6 @@
 
 <br />
 <br />
-
----
 
 
 <!--<details>

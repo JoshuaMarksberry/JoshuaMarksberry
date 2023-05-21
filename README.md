@@ -4,12 +4,6 @@
 
 ## I'm a Student, Developer, and Entrepreneur!
 
-- 🔭 I’m currently working on a Some Projects!
-- 🌱 I’m currently learning a lot of Math and Science.
-- 👯 I’m looking to collaborate with others to build unique and challeging projects.
-- 🥅 2020 Goals: More Open Source projects.
-- ⚡ Fun fact: I used to a content creator and I have been to many places in the USA. 
-
 
 ### Connect with me:
 [<img align="left" alt="https://joshuamarksberry.github.io/Joshua_Portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
